@@ -1,0 +1,57 @@
+[
+    {
+        "categoria": "Arte",
+        "pregunta": "Quien realizo la pintura La Ultima Cena",
+        "repsuesta": "Leonardo Da Vincin",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vicent van Gogh",
+        "incorrecta3": "Salvador Dalí",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Escultor y pintor reconocido por su obra Mona lisa a los 12 años",
+        "repsuesta": "Fernando Botero",
+        "incorrecta1": "Miguel Ángel",
+        "incorrecta2": "Donatello",
+        "incorrecta3": "Antonio Canova",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Las pinturas en la Capilla Sixtina es obra de:",
+        "repsuesta": "Miguel Ángel",
+        "incorrecta1": "Rafael Sanzio",
+        "incorrecta2": "Sandro Botticelli",
+        "incorrecta3": "Caravaggio",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Se atribuye en la decisión de la construcción de la Capilla Notre Dame",
+        "repsuesta": "Maurice de Suly",
+        "incorrecta1": "Pierre de Montreuli",
+        "incorrecta2": "Jean de Chelles",
+        "incorrecta3": "Raymound Du Temple  ",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Arte",
+        "pregunta": "Fecha de la construcción del Santuario de las Lajas en Colombia",
+        "repsuesta": "1916",
+        "incorrecta1": "1917",
+        "incorrecta2": "1893",
+        "incorrecta3": "1900",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    }
+]

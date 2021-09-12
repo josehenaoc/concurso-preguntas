@@ -1,0 +1,56 @@
+[
+    {
+        "categoria": "Musica",
+        "pregunta": "El pentagrama sirve para:",
+        "repsuesta": "Escribir las notas musicales",
+        "incorrecta1": "Sirve para dar ritmo a una canción",
+        "incorrecta2": "Es una tablatura para guitarras",
+        "incorrecta3": "Permite identificar notas musicales",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Musica",
+        "pregunta": "¿A quien se atribuye la universalización del Flamenco?",
+        "repsuesta": "Paco de Lucia",
+        "incorrecta1": "El Niño Miguel",
+        "incorrecta2": "Manolo Sanlúcar",
+        "incorrecta3": "Sabicas",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Musica",
+        "pregunta": "Compositor Oda  a la alegría",
+        "repsuesta": "Ludwing van Beethoven ",
+        "incorrecta1": "Joseph Haydn",
+        "incorrecta2": "Joseph Haydn",
+        "incorrecta3": "Franz Liszt",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Musica",
+        "pregunta": "Origen cultural de la música llanera",
+        "repsuesta": "Venezuela",
+        "incorrecta1": "Colombia",
+        "incorrecta2": "Ecuador",
+        "incorrecta3": "España",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Musica",
+        "pregunta": "La canción Fear or the Dark hace parte de la banda",
+        "repsuesta": "Iron Maiden",
+        "incorrecta1": "Metallica",
+        "incorrecta2": "Megadeth",
+        "incorrecta3": "Morat",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "categoria": "Tecnologias S.XXI",
+        "pregunta": "Fundador de la empresa Space X",
+        "repsuesta": "Elon Musk",
+        "incorrecta1": "Jeff Bezzos",
+        "incorrecta2": "Rychard Branson",
+        "incorrecta3": "Steve Jobs",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Tecnologias SXXI",
+        "pregunta": "El primer mensaje enviado por vía internet",
+        "repsuesta": "lo – login",
+        "incorrecta1": "sección",
+        "incorrecta2": "loop",
+        "incorrecta3": "one",
+        
+        
+    },
+    {
+        "categoria": "Tecnologias SXXI",
+        "pregunta": "El término “Bug” se atribuye a la científica:",
+        "repsuesta": "Grace Murray Hopper",
+        "incorrecta1": "Neil Armstrong",
+        "incorrecta2": "Yvone Clark",
+        "incorrecta3": "Yvone Clark",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Tecnologias SXXI",
+        "pregunta": "El Proyecto “Código Enigma” fue liderado por:",
+        "repsuesta": "Alan Turing",
+        "incorrecta1": "Albert Einstein",
+        "incorrecta2": "Arthur Rudolph",
+        "incorrecta3": "Hans von Halban",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Tecnologias SXXI",
+        "pregunta": "El nombre de Google proviene de:",
+        "repsuesta": "Termino matemático “gúgol”",
+        "incorrecta1": "Un nombre simpático y fácil de recordar",
+        "incorrecta2": "Recomendaciones hacia los fundadores de la compañía",
+        "incorrecta3": "Una jerga común estadounidense ",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    }
+]

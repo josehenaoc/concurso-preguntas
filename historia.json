@@ -1,0 +1,57 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "Fecha de inicio de la primera guerra mundial",
+        "repsuesta": "28/07/1914",
+        "incorrecta1": "13/09/1933",
+        "incorrecta2": "01/05/1910",
+        "incorrecta3": "11/11/1918",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Año de inauguración del palacio de Buckingham",
+        "repsuesta": "1703",
+        "incorrecta1": "1672",
+        "incorrecta2": "1810",
+        "incorrecta3": "1752",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Porque fue exiliado Napoleón Bonaparte",
+        "repsuesta": "Por su derrota en la batalla de Waterloo",
+        "incorrecta1": "Obtener el titulo de emperador de Francia",
+        "incorrecta2": "Obtener el titulo de emperador de Francia",
+        "incorrecta3": "Obtener el titulo de emperador de Francia",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál fue la primera metodología educativa en Colombia?",
+        "repsuesta": "Metodología Lancasteriana",
+        "incorrecta1": "Escuela Nueva",
+        "incorrecta2": "Escuela Montessori",
+        "incorrecta3": "Escuela Conductista",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Fecha de la incursión al Palacio de Justicia en Colombia",
+        "repsuesta": "6 Y 7 de septiembre de 1985",
+        "incorrecta1": "2 Y 3 de noviembre de 1985",
+        "incorrecta2": "5 Y 6 de septiembre de 1986",
+        "incorrecta3": "7 Y 8 de septiembre de 1987",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    }
+]

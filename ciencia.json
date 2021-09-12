@@ -1,0 +1,55 @@
+[
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Quien planteo la teoria de la relatividad",
+        "repsuesta": "Albert Einstein",
+        "incorrecta1": "Rychar Feyman",
+        "incorrecta2": "Louis Pasteur",
+        "incorrecta3": "Ernesto Saint",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "A quién se le atribuye la frase Dame un punto de apoyo y moveré el mundo",
+        "repsuesta": "Arquimedes",
+        "incorrecta1": "Santo Tomas de Aquino",
+        "incorrecta2": "Bach",
+        "incorrecta3": "Mozart",
+        
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Se considera la primera mujer programadora en la historia",
+        "repsuesta": "Augusta do Condesa de Lovelace",
+        "incorrecta1": "Grace Murray Hopper",
+        "incorrecta2": "Marie Curie",
+        "incorrecta3": "Adriana Ocampo",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Quién descubrió los elementos Polonio (Po) y Radio (Ra)?",
+        "repsuesta": "Marie Curie",
+        "incorrecta1": "Amadeo Avogadro",
+        "incorrecta2": "Robert Boyle",
+        "incorrecta3": "Antoine Lavoisier",
+        "imagen": "",
+        "object_fit": "cover",
+        
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Quién descubrió la enfermedad de la malaria?",
+        "repsuesta": "Alfonso Laveran",
+        "incorrecta1": "Manuel Elkin Patarroyo",
+        "incorrecta2": "Amico Bigmani",
+        "incorrecta3": "Jacinto Convit",
+        "imagen": "teoria-relatividad.jpg",
+        "object_fit": "cover",
+        
+    }
+]
